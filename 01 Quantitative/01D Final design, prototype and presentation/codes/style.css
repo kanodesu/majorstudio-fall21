@@ -1,0 +1,84 @@
+* {
+  
+  margin: 0;
+  padding: 0;
+  background-color: #F9F2EA;
+  color: #586F7F;
+  font-family: "Proxima Nova", Arial, sans-serif;
+  
+}
+
+
+h1 {
+  
+  font-family: "Proxima Nova", Arial, sans-serif;
+  font-weight: 750;
+  text-align: center;
+  font-size: 4rem;
+  color: #FFF;
+  background-color: #586F7F;
+  padding-bottom: 4rem;
+  padding-top: 4rem;
+  padding-left: 10rem;
+  padding-right: 10rem;
+  
+}
+
+
+.homepageimage{
+  
+  display: flex;
+  justify-content: center; 
+  flex-direction: column; 
+  align-items: center;
+  align-content: center;
+    
+}
+.rects{
+  
+  display: flex;
+  justify-content: center; 
+  flex-direction: column; 
+  align-items: center;
+  align-content: center;
+  
+}
+
+.text{
+  
+  font-family: "Proxima Nova", Arial, sans-serif;
+  font-weight: 450;
+  text-align: left;
+  font-size: 1.5rem;
+  color: #586F7F;
+  padding-bottom: 4rem;
+  padding-top: 2rem;
+  padding-left: 16rem;
+  padding-right: 16rem;
+  
+}
+
+h2{
+  
+  font-family: "Proxima Nova", Arial, sans-serif;
+  font-weight: 800;
+  text-align: left;
+  font-size: 2rem;
+  color: #586F7F;
+  text-align: center;
+
+  
+}
+
+.highlight{
+  
+  background: #DDBF8A;
+  
+}
+
+.footer{
+  
+  text-align: center;
+  padding-bottom: 4rem;
+  
+}
