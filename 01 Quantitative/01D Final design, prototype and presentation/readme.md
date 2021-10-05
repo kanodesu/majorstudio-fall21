@@ -108,4 +108,4 @@ I picked a yellow as the frame color and a light yellow as the background color 
 Live Website: [The Width and Length Comparison in National Portrait Gallery](https://kanodesu.github.io/majorstudio-fall21/01%20Quantitative/01D%20Final%20design,%20prototype%20and%20presentation/codes/)
 
 
-Full Documentation: [Documentation](https://github.com/kanodesu/majorstudio-fall21/blob/main/01%20Quantitative/01D%20Final%20design%2C%20prototype%20and%20presentation/documentation.pdf)
+Full Documentation: [Documentation.pdf](https://github.com/kanodesu/majorstudio-fall21/blob/main/01%20Quantitative/01D%20Final%20design%2C%20prototype%20and%20presentation/documentation.pdf)
