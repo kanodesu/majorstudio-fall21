@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=false" />
+    <title></title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Righteous">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Rubik">
+
+
+
+
+    <!-- tailwindcss -->
+    <link href="css/output.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #000000;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+        }
+    </style>
+    <style>
+        text {
+            fill: white;
+        }
+
+        path,
+        line {
+            stroke: #F5EEEB;
+        }
+    </style>
+</head>
+
+<body>
+    <style>
+        .page {
+            width: 100vw;
+            height: 100vh;
+        }
+
+        .page1 {
+            display: grid;
+            grid-template-columns: 70% 30%;
+
+        }
+
+        .title_div {
+            font-family: "Futura", sans-serif;
+            color: #F5EEEB;
+            font-size: 6rem;
+            padding: 40vh 0 0 10vw;
+        }
+
+        .title2 {
+            background-color: #EC622B;
+            color: #EC622B;
+        }
+
+        .title2:hover {
+            color: #F5EEEB;
+            background-color: #000000;
+        }
+
+        .title3 {
+            font-size: 2rem;
+            color: #E5E5E5;
+        }
+
+        .page1 img {
+            width: 30vw;
+
+        }
+    </style>
+
+    <article id="fullpage">
+
+
+        <main class="page page1  section">
+            <!-- title -->
+            <div class="title_div">
+                <p class="title"> Gift of</p>
+                <p><span class="title2"> Anonymous</span> <span> Donor</span> </p>
+                <p class="title3">Secret Santa of Cooper Hewitt, Smithsonian Design Museum</p>
+            </div>
+
+            <!-- image -->
+            <img src="./image/homepage.png" alt="">
+        </main>
+
+        <style>
+            .Anonymous {
+                background-color: #EC622B;
+                color: #EC622B;
+            }
+
+            .Anonymous:hover {
+                color: #F5EEEB;
+                background-color: #000000;
+            }
+        </style>
+
+        <br><br>
+        <br><br>
+        <!-- page2 -->
+        <main class="section w-screen  h-screen grid  grid-rows-3  justify-items-center justify-center ">
+            <div class="text-5xl" style="color: #F5EEEB;font-family: Futura, sans-serif;">Gift of
+                <span class="Anonymous">Anonymous </span> Donor</div>
+            <div class="  grid grid-cols-5   w-4/5 self-center ">
+                <div class="  justify-center   col-start-2 col-end-4 justify-self-center">
+                    <p class="text-3xl" style="color: #EC622B;font-family: Futura, sans-serif;">Why People Donate?
+                    </p>
+                    <p class="text-2xl" style="color: #F5EEEB;font-family: Futura, sans-serif;">
+                        <br>Maybe it fits with your beliefs.
+                        You can be recognized, can lend credibility, and even can be an inspiration to others! Also,
+                        donating fine art and other collectibles—such as precious metals, jewelry, and antiques—to
+                        charity
+                        may eliminate capital gains taxes, claim a current year income tax deduction, and potentially
+                        reduce
+                        estate tax liability.
+                    </p>
+                </div>
+                <img src="./image/page02.png" alt="" class="w-full  self-center">
+            </div>
+        </main>
+
+
+        <!-- page3 -->
+        <main class=" section w-screen  h-screen grid  grid-rows-3  justify-items-center justify-center ">
+            <div class="  grid grid-cols-5   w-4/5 ">
+                <div class="  justify-center   col-start-2 col-end-4 justify-self-center">
+                    <p class="text-3xl" style="color: #EC622B;font-family: Futura, sans-serif;">But Why People Donate
+                        Anonymously?
+                    </p>
+                    <p class="text-2xl" style="color: #F5EEEB;font-family: Futura, sans-serif;">
+                        <br>Maybe it fits with your beliefs.
+                        Whether it’s due to your
+                        religion or personal
+                        values, you simply
+                        believe that it is better to give anonymously.
+                        Maybe you want to avoid public scrutiny. If your cause or organization is controversial, you may
+                        not
+                        want to associate your name with it. Or, if you worry about making a mistake, anonymity shields
+                        you
+                        from the public.
+                    </p>
+                </div>
+                <div>
+
+                    <img src="./image/page03.png" alt="" class="w-full  self-center">
+                </div>
+            </div>
+        </main>
+
+
+
+        <!-- page4 -->
+        <main class=" section w-screen h-screen  grid grid-rows-5  justify-items-center content-center"
+            style="color: #F5EEEB;">
+            <div class="w-3/5  text-2xl  row-start-2 row-end-5 self-center  content-center items-center"
+                style="color: #F5EEEB;font-family: Futura, sans-serif;">
+                This data visualization project
+                uses dataset credited “Gift
+                of Anonymous Donor.” which is
+                provided by
+                Cooper Hewitt, Smithsonian Design Museum. Using “Anonymous Donor” as a key strategy, it poses different
+                questions: Which country of artwork was donated the most anonymously? Was there a specific time period
+                that
+                Cooper Hewitt received a large amount of donations? Which works of art do we still value today?</div>
+        </main>
+    </article>
+
+
+    <main class=" section w-screen h-screen " style="display: grid; grid-template-rows: 10% 90%;">
+        <div class="text-5xl  justify-self-center   " style="color: #F5EEEB;font-family: Futura, sans-serif;">Gift of
+            <span class="Anonymous">Anonymous </span> Donor </div>
+        <div id="chart" class="w-full" style="height: 100vh;"> </div>
+    </main>
+
+
+    <script src="./js/index.js" type="module"></script>
+    
+    <br><br><br><br>
+    
+    
+    <p class = "footer" style="color: #F5EEEB;font-family: Futura, sans-serif; text-align: center;padding-bottom: 4rem;">
+        Wenqin Lu | Parsons MSDV | Major Studio1 | Qualitative Data | Data From Cooper Hewitt, Smithsonian Design Museum</p>
+
+
+</body>
+
+</html>
