@@ -17,8 +17,6 @@ The dataset includes 150 portrait paintings which are on the physical exhibit wi
 ## Dataset:
 The dataset that's been used in this project is provided by Smithsonian, and I requested data through API Key.
 ```javascript
-const apiKey = "EIaSkO8RXK9KEQ8gxEwibyoDvZnUM8wUpJeYwbIK";  
-
 // search base URL
 const searchBaseURL = "https://api.si.edu/openaccess/api/v1.0/search";
 
