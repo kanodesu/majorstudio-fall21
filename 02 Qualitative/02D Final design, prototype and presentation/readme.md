@@ -100,12 +100,10 @@ I picked a yellow as the frame color and a light yellow as the background color 
 ## Final Design
 ![1](https://github.com/kanodesu/majorstudio-fall21/blob/main/02%20Qualitative/02D%20Final%20design%2C%20prototype%20and%20presentation/Screen%20Shot%202021-11-30%20at%2013.30.00.png "1")
 ![2](https://github.com/kanodesu/majorstudio-fall21/blob/main/02%20Qualitative/02D%20Final%20design%2C%20prototype%20and%20presentation/Screen%20Shot%202021-11-30%20at%2013.31.16.png "2")
-![3](https://github.com/kanodesu/majorstudio-fall21/blob/main/01%20Quantitative/01D%20Final%20design%2C%20prototype%20and%20presentation/screenshots/screenshot3.png "3")
-![4](https://github.com/kanodesu/majorstudio-fall21/blob/main/01%20Quantitative/01D%20Final%20design%2C%20prototype%20and%20presentation/screenshots/screenshot4.png "4")
+
 
 <br>
 Live Website: [Gift of Anonymous Donor](https://kanodesu.github.io/majorstudio-fall21/02%20Qualitative/02D%20Final%20design,%20prototype%20and%20presentation/)
-
 
 Screen Recording: [Gift of Anonymous Donor Screen Recording](https://github.com/kanodesu/majorstudio-fall21/blob/main/02%20Qualitative/02D%20Final%20design%2C%20prototype%20and%20presentation/Screen%20Recording%20.mov)
 
