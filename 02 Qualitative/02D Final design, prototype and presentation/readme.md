@@ -103,6 +103,8 @@ I picked a yellow as the frame color and a light yellow as the background color 
 
 
 <br>
+
+
 Live Website: [Gift of Anonymous Donor](https://kanodesu.github.io/majorstudio-fall21/02%20Qualitative/02D%20Final%20design,%20prototype%20and%20presentation/)
 
 Screen Recording: [Gift of Anonymous Donor Screen Recording](https://github.com/kanodesu/majorstudio-fall21/blob/main/02%20Qualitative/02D%20Final%20design%2C%20prototype%20and%20presentation/Screen%20Recording%20.mov)
