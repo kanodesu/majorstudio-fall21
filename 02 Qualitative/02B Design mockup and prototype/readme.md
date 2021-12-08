@@ -1,9 +1,6 @@
 ## 02B Design mockup and prototype
 
 
-
-
-
 I chose the Gift of Anonymous Donor as my topic to continue working on, to visualize the objects/artworks in Cooper Hewitt, Smithsonian Design Museum that were donated by Anonymous donors. 
 
 I fetched all data related to "Anonymous" in Cooper Hewitt, Smithsonian Design Museum through the API, [data.json](https://github.com/kanodesu/majorstudio-fall21/blob/main/02%20Qualitative/02B%20Design%20mockup%20and%20prototype/data.json). But this dataset is too extensive. It includes all anonymous-related items, including anonymous painters, anonymous donor, etc. I only need the data related to anonymous donor, so I perhaps need to clean up the data manually.
