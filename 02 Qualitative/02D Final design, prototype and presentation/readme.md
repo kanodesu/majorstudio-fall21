@@ -89,13 +89,10 @@ I also have the `json` file with all the data I needed. [data.json](https://gith
 
 
 ## Design elements:
+I felt the word `Anonymous` is mysterious to me, so I decided to make my app in a dark background color, and hide the word `Anonymous` first with an orange brick. And when it's on hoversing, it will show the word `Anonymous`.
 
-I also used the same blue I found at the official NPG website as the primary color.
-I picked a yellow as the frame color and a light yellow as the background color that works well with both the primary color and frame color.
+I also used the same orange color I found at the official Cooper Hewitt, Smithsonian Design Museum website as the spot color on my dark background color app. `#EC622B`
 
-`Primary color: #586F7F`
-`Frame color: #DDBF8A`
-`Background color: #F9F2EA`
 
 ## Final Design
 ![1](https://github.com/kanodesu/majorstudio-fall21/blob/main/02%20Qualitative/02D%20Final%20design%2C%20prototype%20and%20presentation/Screen%20Shot%202021-11-30%20at%2013.30.00.png "1")
