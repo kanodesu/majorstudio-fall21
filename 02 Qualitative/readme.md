@@ -3,7 +3,7 @@
 
 ## Project Introduction:
 
-This data visualization project uses dataset credited “Gift of Anonymous Donor.” which is provided by Cooper Hewitt, Smithsonian Design Museum. Using “Anonymous Donor” as a key strategy, it poses different questions: Which country of artwork was donated the most anonymously? Was there a specific time period that Cooper Hewitt received a large amout of donations? Which works of art do we still value today?
+This data visualization project uses a dataset credited “Gift of Anonymous Donor.” which is provided by Cooper Hewitt, Smithsonian Design Museum. Using “Anonymous Donor'' as a key strategy, it poses different questions: Which country of artwork was donated the most anonymously? Was there a specific time period that Cooper Hewitt received a large amount of donations? Which works of art do we still value today?
 
 
 ![1](https://github.com/kanodesu/majorstudio-fall21/blob/main/02%20Qualitative/02C%20Second%20iteration%20of%20design%20and%20prototype/MacBook%20Pro%20-%2020.png "1")
